@@ -7,7 +7,8 @@
 <title>Mi Primera Pagina</title>
 </head>
 <body>
-	<h1>Buenas tardes</h1>
+	<p>Hola Mundo GitHub</p>
+	<h1>conexion github lograda</h1>
 	<table border="2" width="300">
 		<thead>
 			<tr>
